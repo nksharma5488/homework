@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWorkMVVM</string>
+    <string name="login">Login</string>
+    <string name="user_name">UserName : %s</string>
+    <string name="user_id">User Id : %s</string>
+    <string name="user_is_deleted">isDeleted : %s</string>
+</resources>

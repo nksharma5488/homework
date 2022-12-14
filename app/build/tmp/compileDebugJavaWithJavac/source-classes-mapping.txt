@@ -1,0 +1,17 @@
+com/imaginato/homeworkmvvm/BuildConfig.java
+ com.imaginato.homeworkmvvm.BuildConfig
+com/imaginato/homeworkmvvm/databinding/ActivityMainBinding.java
+ com.imaginato.homeworkmvvm.databinding.ActivityMainBinding
+com/imaginato/homeworkmvvm/databinding/ActivityHomeBinding.java
+ com.imaginato.homeworkmvvm.databinding.ActivityHomeBinding
+com/imaginato/homeworkmvvm/data/local/login/UserInfoDao_Impl.java
+ com.imaginato.homeworkmvvm.data.local.login.UserInfoDao_Impl
+ com.imaginato.homeworkmvvm.data.local.login.UserInfoDao_Impl$1
+com/imaginato/homeworkmvvm/data/local/demo/DemoDao_Impl.java
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDao_Impl
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDao_Impl$1
+com/imaginato/homeworkmvvm/databinding/ActivityLoginBinding.java
+ com.imaginato.homeworkmvvm.databinding.ActivityLoginBinding
+com/imaginato/homeworkmvvm/data/local/demo/DemoDatabase_Impl.java
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDatabase_Impl
+ com.imaginato.homeworkmvvm.data.local.demo.DemoDatabase_Impl$1

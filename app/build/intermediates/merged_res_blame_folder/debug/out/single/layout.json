@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/narender.kumar/StudioProjects/HomeWorkMVVM/app/src/main/res/layout/activity_login.xml"
+    }
+]
